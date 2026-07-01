@@ -221,6 +221,7 @@ More bonus material from the [Reasoning From Scratch](https://github.com/rasbt/r
 
 - **Reinforcement Learning** (RL)
   - [RLVR with GRPO From Scratch](https://github.com/rasbt/reasoning-from-scratch/blob/main/ch06/01_main-chapter-code/ch06_main.ipynb)
+  - [Local GRPO Implementation & Training Demo](reasoning-from-scratch/): A robust, modular implementation of Group Relative Policy Optimization (GRPO) from scratch using custom GPT architectures, featuring verifier-based rewards.
 
 
 <br>
